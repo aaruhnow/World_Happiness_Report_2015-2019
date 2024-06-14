@@ -51,6 +51,8 @@
 
 #### 01 Project Management Folder: Project Brief
 
+#### 02 Data: Contains subfolders 'Original Data' which has the original dataset pulled from data souce Kaggle and 'Prepared Data' which is the datasets after data cleaning, wrangling, and merging
+
 #### 03 Scripts:  Jupyter notebooks used for analysis and visualizations
 
 #### 04 Analysis Folder: The visualizations subfolder contains the visualizations used for developing and explaining insights
