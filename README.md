@@ -3,7 +3,7 @@
 ## Tools
 
 #### Python 3.0 was used for the cleaning, wrangling, and initial visual exploration and analysis. Tableau was used for final visualizations Tableau Public Dashboard built with data here:
-(https://public.tableau.com/app/profile/andrew.ruhnow/viz/WorldHappinessReport2015-2019_17177049296500/Story1)
+((https://public.tableau.com/app/profile/andrew.ruhnow/viz/WorldHappinessReport2015-2019_17177049296500/Story1?publish=yes))
 
 ## Introduction
 
